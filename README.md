@@ -9,6 +9,6 @@
 -N/A
 ## Usage
 - When the user opens the webpage there is a list of navigation links on the top that guides the user to different sections on the page.
-
+[screencapture-file-Users-maxwell-Documents-fullstack-repos-Horiseon-Marketing-index-html-2024-03-06-14_38_07.pdf](https://github.com/maxwellmitchell93/Horiseon-Marketing/files/14516214/screencapture-file-Users-maxwell-Documents-fullstack-repos-Horiseon-Marketing-index-html-2024-03-06-14_38_07.pdf)
 ## License
 -N/A
