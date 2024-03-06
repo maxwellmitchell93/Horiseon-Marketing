@@ -8,4 +8,7 @@
 ## Instalation 
 -N/A
 ## Usage
--
+- When the user opens the webpage there is a list of navigation links on the top that guides the user to different sections on the page.
+
+## License
+-N/A
